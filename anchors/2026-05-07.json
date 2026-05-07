@@ -1,0 +1,22 @@
+{
+  "anchors": {
+    "242449d4-46b9-4c5b-85cc-5408e6102dd0": {
+      "catalyst_date": "2026-08-01",
+      "confidence_score": 6,
+      "direction": "long_put",
+      "hash": "ffd63da00e20786054e6ea7a7a628cb3b8bc406ced9727189960aeb2cefa620a",
+      "logged_at": "2026-05-05T05:18:01.732975+00:00",
+      "ticker": "ANRO"
+    },
+    "749060bd-dac1-4785-bf3e-29792f55c5d3": {
+      "catalyst_date": "2026-07-08",
+      "confidence_score": 7,
+      "direction": "long_put",
+      "hash": "cdc40120321e92f190747bf253ddff03d26a81a56da3bbc2b2b23ea825aad811",
+      "logged_at": "2026-05-04T19:15:42.075764+00:00",
+      "ticker": "ALDX"
+    }
+  },
+  "generated_at": "2026-05-07T15:23:16.511925+00:00",
+  "signal_count": 2
+}
