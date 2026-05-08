@@ -1,0 +1,14 @@
+{
+  "anchors": {
+    "214bf2de-d049-472e-bacb-72f809b8ea4a": {
+      "catalyst_date": "2026-05-08",
+      "confidence_score": 7,
+      "direction": "long_put",
+      "hash": "99c0c9304cc73e032debe434aa11c1fae9d7ae5446a880d54a8d03091cab89ed",
+      "logged_at": "2026-05-07T16:17:41.615844+00:00",
+      "ticker": "QQQ"
+    }
+  },
+  "generated_at": "2026-05-08T14:23:12.278890+00:00",
+  "signal_count": 1
+}
