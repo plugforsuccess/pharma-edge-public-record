@@ -1,0 +1,22 @@
+{
+  "anchors": {
+    "81ad500c-cba6-471f-93fb-5cf51e12f146": {
+      "catalyst_date": "2026-05-12",
+      "confidence_score": 7,
+      "direction": "long_call",
+      "hash": "610d6375d4a918ed4e2faee74bac2141d49d38e5342fe359df6a539314681ef9",
+      "logged_at": "2026-05-08T15:56:01.678157+00:00",
+      "ticker": "QQQ"
+    },
+    "a9a1a720-aa5f-4d4c-a922-4178629f8a14": {
+      "catalyst_date": "2026-05-12",
+      "confidence_score": 7,
+      "direction": "long_call",
+      "hash": "49b03f0a28d7e80fef51bb2816e67e450b47322364570750bb6f5726f1fe4ac3",
+      "logged_at": "2026-05-08T15:53:12.57318+00:00",
+      "ticker": "QQQ"
+    }
+  },
+  "generated_at": "2026-05-09T13:58:24.133465+00:00",
+  "signal_count": 2
+}
