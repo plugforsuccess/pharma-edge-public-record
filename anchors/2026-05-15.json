@@ -1,0 +1,38 @@
+{
+  "anchors": {
+    "215bd328-56b3-426f-8ff9-69274001dfe3": {
+      "catalyst_date": "2026-05-18",
+      "confidence_score": 7,
+      "direction": "long_call",
+      "hash": "c0ec3bf14fa80b80b4f2d543d4e0f32e392c8b21f6f24c2955814aad27a9ae0a",
+      "logged_at": "2026-05-14T15:29:00.482373+00:00",
+      "ticker": "QQQ"
+    },
+    "6b8dc7f6-1ce3-4ddd-9663-7fcbfc37670f": {
+      "catalyst_date": "2026-05-15",
+      "confidence_score": 7,
+      "direction": "long_call",
+      "hash": "9f24fd6a8de99f3fa1e7b8cd2b24dffd5ebac80a804210cfd6d2f2d3cb013aad",
+      "logged_at": "2026-05-14T16:01:23.69807+00:00",
+      "ticker": "AMD"
+    },
+    "7713cc39-b8ef-422f-8d9e-8e42af9cf960": {
+      "catalyst_date": "2026-05-14",
+      "confidence_score": 7,
+      "direction": "long_call",
+      "hash": "1dfdb093080bf8ecf2edda754b3f38cc7404b2b1b353aef83bcd25116cfc7d51",
+      "logged_at": "2026-05-14T16:04:10.146638+00:00",
+      "ticker": "QQQ"
+    },
+    "bc65fd8f-cd47-4b5f-b542-aa5cbcf7fc3e": {
+      "catalyst_date": "2026-05-15",
+      "confidence_score": 7,
+      "direction": "long_call",
+      "hash": "7134fc9e2896254cc1667c6a148c457bc2849ee4109499f996e96e3f38992fc2",
+      "logged_at": "2026-05-14T15:35:13.86701+00:00",
+      "ticker": "AMD"
+    }
+  },
+  "generated_at": "2026-05-15T15:00:16.707970+00:00",
+  "signal_count": 4
+}
